@@ -1,7 +1,7 @@
 # Task 1 of the Artificial Intelligence Path:
 
 
-step 1: Install Ubuntu
+# step 1: Install Ubuntu
 
 
 1_ https://www.virtualbox.org/wiki/Downloads
@@ -13,7 +13,7 @@ step 1: Install Ubuntu
 3_ Open the Ubuntu within the Virtual Machine 
 
 
-step 2: Install ROS And Launch ROS in Ubuntu
+# step 2: Install ROS And Launch ROS in Ubuntu
 
 
 1_https://wiki.ros.org/ROS/Installation
